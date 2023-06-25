@@ -1,4 +1,4 @@
-{
+
   "posts": 
    [
     {
@@ -286,7 +286,7 @@
         "gallery": "./assets/the-swing/gallery.jpg"
       }
     }
-  ]
+  
   
 
 }
